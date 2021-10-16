@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="homepage.css"/>
+<style>
+body
+{
+	background: url("Images/off.jpeg");
+	height: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+</style>
+
+</head>
+<body>
+
+
+  <h1 align = "center"><font size="12" color = #5F9EA0><b><i>CARD TRADE</i></b></font></h1>
+	<h1 align="center" size = "14">
+
+  <form action="search.php" method="post">
+    Choose Search Type:<br />
+    <select name="searchtype">
+      <option value="ID">ID 
+      <option value="product_name">Product Name
+      <option value="price">Price
+    </select>
+    <br />
+    Enter Search Term:<br />
+    <input name="searchterm" type="text" size="40">
+    <br />
+    <input type="submit" name="submit" value="Search">
+  </form>
+
+</body>
+</html>
+

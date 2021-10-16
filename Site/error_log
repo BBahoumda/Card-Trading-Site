@@ -1,0 +1,142 @@
+[18-May-2021 00:59:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/mixture.php on line 25
+[18-May-2021 00:59:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/tablet.php on line 25
+[18-May-2021 01:03:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:03:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:11:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:12:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:12:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:13:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:13:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:15:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:17:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:19:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:27:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:30:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:34:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:43:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:48:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:49:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:55:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 01:55:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 02:07:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:24:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:25:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:25:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 02:26:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 02:26:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:26:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/mixture.php on line 25
+[18-May-2021 02:26:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/tablet.php on line 25
+[18-May-2021 02:27:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/tablet.php on line 25
+[18-May-2021 02:28:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/tablet.php on line 25
+[18-May-2021 02:28:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:29:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:30:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:31:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:31:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 02:31:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:32:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:32:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 02:32:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:32:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/mixture.php on line 25
+[18-May-2021 02:33:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/tablet.php on line 25
+[18-May-2021 02:35:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:42:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:42:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 02:42:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/mixture.php on line 25
+[18-May-2021 02:42:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/tablet.php on line 25
+[18-May-2021 02:42:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/mixture.php on line 25
+[18-May-2021 02:42:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/tablet.php on line 25
+[18-May-2021 02:42:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 03:21:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 03:21:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 03:27:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 03:29:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 03:32:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 03:33:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 03:34:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:07:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:18:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:27:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:27:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 04:32:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:32:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:32:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/mixture.php on line 25
+[18-May-2021 04:32:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/tablet.php on line 25
+[18-May-2021 04:32:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/mixture.php on line 25
+[18-May-2021 04:32:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:40:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:41:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:49:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:49:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:55:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:57:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 04:59:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 05:00:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 05:19:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/bahoumd1/public_html/test2/project2/search.php on line 32
+[18-May-2021 05:19:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 05:19:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/bahoumd1/public_html/test2/project2/search.php on line 32
+[18-May-2021 05:20:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 05:21:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 05:21:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 05:21:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/bahoumd1/public_html/test2/project2/search.php on line 32
+[18-May-2021 05:21:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/bahoumd1/public_html/test2/project2/search.php on line 32
+[18-May-2021 05:21:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 11:06:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/homepage.php on line 25
+[18-May-2021 11:06:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/bahoumd1/public_html/test2/project2/search.php on line 32
+[18-May-2021 11:06:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/test2/project2/orderdetail.php on line 25
+[18-May-2021 11:32:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 11:40:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 11:43:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 11:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function free() on bool in /home/bahoumd1/public_html/Card Trade/search.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/bahoumd1/public_html/Card Trade/search.php on line 69
+[18-May-2021 11:48:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 11:48:58 UTC] PHP Warning:  Use of undefined constant search - assumed 'search' (this will throw an Error in a future version of PHP) in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 11:48:58 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 11:48:58 UTC] PHP Warning:  include(searchphp): failed to open stream: No such file or directory in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 11:48:58 UTC] PHP Warning:  include(): Failed opening 'searchphp' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 11:51:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 11:51:59 UTC] PHP Warning:  Use of undefined constant search - assumed 'search' (this will throw an Error in a future version of PHP) in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 11:51:59 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 11:51:59 UTC] PHP Warning:  include(searchphp): failed to open stream: No such file or directory in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 11:51:59 UTC] PHP Warning:  include(): Failed opening 'searchphp' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 12:24:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 12:25:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 12:26:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 12:26:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 12:26:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/orderdetail.php on line 25
+[18-May-2021 12:26:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 12:47:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 12:47:48 UTC] PHP Warning:  Use of undefined constant search - assumed 'search' (this will throw an Error in a future version of PHP) in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 12:47:48 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 12:47:48 UTC] PHP Warning:  include(searchphp): failed to open stream: No such file or directory in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 12:47:48 UTC] PHP Warning:  include(): Failed opening 'searchphp' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/bahoumd1/public_html/Card Trade/search.php on line 1
+[18-May-2021 13:28:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 13:37:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/orderdetail.php on line 25
+[18-May-2021 13:37:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 13:41:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 13:41:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/orderdetail.php on line 25
+[18-May-2021 13:43:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 13:55:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 13:59:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 13:59:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 14:00:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/orderdetail.php on line 25
+[18-May-2021 14:00:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 14:02:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 14:22:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 14:23:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/orderdetail.php on line 25
+[18-May-2021 14:23:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/orderdetail.php on line 25
+[18-May-2021 14:34:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 14:36:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 14:36:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 14:36:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/orderdetail.php on line 25
+[18-May-2021 14:36:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 14:39:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[18-May-2021 16:49:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[07-Jun-2021 02:14:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[07-Jun-2021 15:21:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[07-Jun-2021 15:21:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[08-Jul-2021 18:05:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[08-Jul-2021 18:06:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
+[08-Jul-2021 18:12:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/bahoumd1/public_html/Card Trade/homepage.php on line 25
